@@ -8,3 +8,5 @@ Used BEM and SCSS
 - Notebook 1280px
 - Tablet 768px
 - Mobile (> 320px)
+
+DEMO: https://getlucky23.github.io/Kickstarter/
